@@ -1,0 +1,12 @@
+[app]
+port = 8000
+host = "0.0.0.0"
+secret = "this-is-a-super-long-and-complex-and-secret-key"
+
+[db]
+host = "127.0.0.1"
+port = 3306
+user = "user"
+passwd = "passwd"
+name = "lettedb"
+ssl = false
